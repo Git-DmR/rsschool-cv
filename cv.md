@@ -32,3 +32,8 @@ _A smart and well-educated young engineer is looking for an interesting job or a
 > - Attention to Detail (Critical observation, Organization, Analysis)
 > - Problem-Solving (Analysis, Initiative, Brainstorming, Decision making)
 > - Teamwork (Conflict management, Collaboration, Cooperation, Coordination)
+
+**Languages:**
+
+> - russian (native)
+> - english (A2+)
