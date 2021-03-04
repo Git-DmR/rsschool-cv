@@ -22,3 +22,13 @@ _A smart and well-educated young engineer is looking for an interesting job or a
 > - Linux
 > - PostgreSQL
 > - Docker
+
+**Soft skills:**
+
+> - Communication (Confidence, Respect, Constructive feedback)
+> - Creativity (Inspiration, Imagination, Experimenting, Design)
+> - Time Management (Goal setting, Planning, Stress management)
+> - Leadership (Project management, Cultural intelligence)
+> - Attention to Detail (Critical observation, Organization, Analysis)
+> - Problem-Solving (Analysis, Initiative, Brainstorming, Decision making)
+> - Teamwork (Conflict management, Collaboration, Cooperation, Coordination)
